@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MvcAdoNetProjem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MvcAdoNetProjem.rl6to1shr4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\0af33117-d5b8-4b4c-8b9e-9a295a2a1564.jpg",
+      "PackagePath": "staticwebassets\\images\\0af33117-d5b8-4b4c-8b9e-9a295a2a1564.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\0b71355f-284e-48e3-9b1d-7e405fe9a717.jpg",
+      "PackagePath": "staticwebassets\\images\\0b71355f-284e-48e3-9b1d-7e405fe9a717.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\0e7f173e-d053-4778-84ec-d8c1e167c7f8.jpg",
+      "PackagePath": "staticwebassets\\images\\0e7f173e-d053-4778-84ec-d8c1e167c7f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\1a1df308-c667-4f72-8c10-6b29d1a5f344.jpg",
+      "PackagePath": "staticwebassets\\images\\1a1df308-c667-4f72-8c10-6b29d1a5f344.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\1e836a00-9ae9-4904-9fd0-4aec63dae012.jpg",
+      "PackagePath": "staticwebassets\\images\\1e836a00-9ae9-4904-9fd0-4aec63dae012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\2d75eee8-349e-4673-9c1b-132b612dcfb9.jpg",
+      "PackagePath": "staticwebassets\\images\\2d75eee8-349e-4673-9c1b-132b612dcfb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\649a4f74-299d-4a6c-b01e-f9bd5514b247.jpg",
+      "PackagePath": "staticwebassets\\images\\649a4f74-299d-4a6c-b01e-f9bd5514b247.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\8405fa6c-fbe1-4419-953a-6c70b0cbe2be.jpg",
+      "PackagePath": "staticwebassets\\images\\8405fa6c-fbe1-4419-953a-6c70b0cbe2be.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\93be59d2-70db-4245-9a33-2991e5d83f2c.jpg",
+      "PackagePath": "staticwebassets\\images\\93be59d2-70db-4245-9a33-2991e5d83f2c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\9dcdf945-708c-4d6c-bd14-c5e45be9bb6b.jpg",
+      "PackagePath": "staticwebassets\\images\\9dcdf945-708c-4d6c-bd14-c5e45be9bb6b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\a8d6c059-a7fb-4818-870b-457bcc55c2cf.jpg",
+      "PackagePath": "staticwebassets\\images\\a8d6c059-a7fb-4818-870b-457bcc55c2cf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\cd951ba9-7693-42b0-83f0-ba69d4860884.jpg",
+      "PackagePath": "staticwebassets\\images\\cd951ba9-7693-42b0-83f0-ba69d4860884.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\e83338fa-2f61-497d-8f7e-3f7ef355f799.jpg",
+      "PackagePath": "staticwebassets\\images\\e83338fa-2f61-497d-8f7e-3f7ef355f799.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\images\\fb172e63-23de-4559-bdb2-1fee3310ca3d.webp",
+      "PackagePath": "staticwebassets\\images\\fb172e63-23de-4559-bdb2-1fee3310ca3d.webp"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ardae\\Desktop\\MvcAdoNetProjem\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MvcAdoNetProjem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MvcAdoNetProjem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MvcAdoNetProjem.props",
+      "PackagePath": "build\\MvcAdoNetProjem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MvcAdoNetProjem.props",
+      "PackagePath": "buildMultiTargeting\\MvcAdoNetProjem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MvcAdoNetProjem.props",
+      "PackagePath": "buildTransitive\\MvcAdoNetProjem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
